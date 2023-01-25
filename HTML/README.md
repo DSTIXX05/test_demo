@@ -1,0 +1,1 @@
+This folder contains projects based on web design with HTML. Still learning.
